@@ -29,6 +29,9 @@ Fazer a **Gestão dos participantes em eventos presenciais**.
 - Check-in apenas via QRCode.
 
 ## Tecnologias utilizadas:
-- Backend: NodeJS
+- Backend: NodeJS e TypeScript
+    - Frameworks e Bibliotecas:
+        - Fastify
+        - Prima
 - Frontend: ReactJS
 - Banco de Dados:
