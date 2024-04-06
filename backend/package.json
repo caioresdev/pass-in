@@ -12,6 +12,7 @@
   "devDependencies": {
     "@types/node": "^20.12.4",
     "prism": "^1.0.0",
+    "prisma": "^5.12.1",
     "tsx": "^4.7.1",
     "typescript": "^5.4.3"
   },
