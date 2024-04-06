@@ -2,6 +2,12 @@ import fastify from "fastify";
 
 const app = fastify()
 
+app.post('/events', (request, reply) => {
+    console.log(request.body)
+    return 'Um Salve'
+})
+
+
 app.get('/', () => {
     return 'Rota Inicial da Aplicação'
 
