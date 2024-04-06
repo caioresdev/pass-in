@@ -1,0 +1,6 @@
+POST https://reimagined-space-journey-4jjjpxg5grrwf79-3333.app.github.dev/events
+Content-Type: application/json
+
+{
+    "title": "Unite Smmit"
+}
