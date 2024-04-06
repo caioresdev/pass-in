@@ -8,6 +8,8 @@ export  function Header() {
           <a href="" className='text-sm font-medium text-zinc-300'>Eventos</a>
           <a href="" className='text-sm font-medium'>Participantes</a>
         </nav>
+
+       
     </div>
 
   )
